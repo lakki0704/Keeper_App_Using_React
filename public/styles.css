@@ -12,6 +12,7 @@ header {
   background-color: #f5ba13;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  width: 100%;
 }
 
 header h1 {
@@ -66,7 +67,7 @@ footer p {
 
 form {
   position: relative;
-  width: 480px;
+  width: 350px;
   margin: 30px auto 20px auto;
   background: #fff;
   padding: 15px;
